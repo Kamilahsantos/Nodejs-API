@@ -1,6 +1,6 @@
 # Nodejs-API
 
-API desenvolvida com Nodejs durante o curso  (Nodejs da RocketSeat)[https://rocketseat.com.br/starter/curso-gratuito-nodejs]
+API desenvolvida com Nodejs durante o curso  [Nodejs da RocketSeat](https://rocketseat.com.br/starter/curso-gratuito-nodejs)
 
 ## Pacotes utilizados
  - express;
